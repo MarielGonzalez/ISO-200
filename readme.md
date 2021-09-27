@@ -1,3 +1,15 @@
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e4/LOGO_UNAPEC.png)
+
+# PRACTICA #4 DE PROGRAMACION ESTRUCTURADA
+
+> Integrantes del grupo
+1. Scarlett Mariel González            A00106364
+2. Charlie de León Duran               A00108032
+3. Claudio D. Sánchez                  A00108707
+
+
+
 EN EQUIPO DE TRES PERSONAS.
 
 Subir el ARCHIVO COMPRIMIDO una sola persona, tanto el código fuente como el ejecutable....  
