@@ -5,8 +5,8 @@
 
 > Integrantes del grupo
 1. Scarlett Mariel González            A00106364
-2. Charlie de León Duran               A00108032
-3. Claudio D. Sánchez                  A00108707
+2. Charlie de León Duran               A00108707
+3. Claudio D. Sánchez                  A00108032
 
 
 
